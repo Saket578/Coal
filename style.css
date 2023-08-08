@@ -1,0 +1,20 @@
+#body{
+    background-color:rgb(68, 44, 44);
+}
+
+h1{
+    color:red;
+}
+
+#h{
+    color:green;
+}
+
+#ho{
+    color:grey;
+}
+
+label{
+    color:black;
+    font-size:100px;
+}
